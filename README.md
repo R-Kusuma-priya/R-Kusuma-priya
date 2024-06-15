@@ -6,7 +6,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusuma-priya-b97109255/)
 
 🧠 I'm currently learning: Data Structures and Algorithms, ReactJS, NodeJS, Express JS and Mongo DB <br>
-📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1ht-hYOuiXw2f4XnWCVblGHX86sjAw6Gu/view?usp=drivesdk">Resume</a><br>
+📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1226MhLJZB8kpAaoA7yHd_4EVjF77qndy/view?usp=drivesdk">Resume</a><br>
 
 <p align="left">
 <a href="https://github.com/R-Kusuma-priya">
